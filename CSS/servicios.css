@@ -1,0 +1,32 @@
+#logo{
+    margin-right: 10px;
+}
+
+body{
+    background: linear-gradient(90deg, rgba(145,129,66,1) 0%, rgba(191,159,59,1) 35%, rgba(244,228,139,1) 100%);
+}
+
+h1{
+    color: rgb(61, 51, 4);
+        font-family:'Times New Roman', Times, serif;
+        margin: 20px;
+        
+}
+#fotO{
+    text-align: center;
+    color: black;
+}
+
+#serivios{
+    text-align: center;
+    font-size: 30px;
+}
+
+#te{
+    text-align: center;
+    font-size: 30px;
+}
+
+#ic{
+    padding-top: 30px;
+}
